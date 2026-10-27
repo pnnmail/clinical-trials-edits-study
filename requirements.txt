@@ -1,0 +1,8 @@
+pandas
+pyarrow
+numpy
+requests
+pyyaml
+rapidfuzz
+playwright
+matplotlib

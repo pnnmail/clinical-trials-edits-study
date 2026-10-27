@@ -1,0 +1,38 @@
+period:
+  start: 2018-01-01
+  end: null                      # null = today
+
+trials:
+  filter_advanced: "AREA[StudyType]INTERVENTIONAL AND AREA[Phase](PHASE2 OR PHASE3) AND AREA[LeadSponsorClass]INDUSTRY AND AREA[LastUpdatePostDate]RANGE[2018-01-01,MAX]"
+  history_modules: ["Study Status", "Study Design", "Outcome Measures", "Contacts/Locations", "Sponsor/Collaborators"]
+
+http:
+  ctgov_delay_sec: 1.0           # robots.txt: Crawl-delay 1
+  ctgov_user_agent: "TRIALS_PILOT research you@example.com"   # set your contact email
+  sec_user_agent: "TRIALS_PILOT research you@example.com"   # set your contact email
+  sec_max_rps: 10
+
+universe:
+  exchanges: [NYSE, Nasdaq]
+  max_mcap_usd: 10000000000
+  lead_asset_max_programs: 2
+
+events:                          # detector thresholds — check robustness
+  date_shift_days: 90
+  enrollment_cut_pct: 0.20
+  sites_cut_pct: 0.25
+  sites_min: 4                   # site reduction counts if there were ≥ 4 sites
+
+prices:
+  source: alpaca                 # includes delisted; yfinance — for cross-checking
+  benchmark: XBI
+  check_benchmark: IBB
+  min_price: 2.0
+  min_median_dollar_volume: 500000
+
+thresholds:
+  stage2_min_companies: 150
+  stage2_min_precision: 0.95
+  stage3_min_negative_events: 300
+  stage4_min_abs_t: 2.0
+  estimation_window: [-250, -30]

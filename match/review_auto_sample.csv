@@ -1,0 +1,201 @@
+﻿sponsor,n_trials,method,match_score,matched_name,cik,ticker,exchange,status
+Heat Biologics,3,exact,100.0,"HEAT BIOLOGICS, INC.",1476963.0,SCPX,NYSE,confirmed
+"Five Prime Therapeutics, Inc.",3,exact,100.0,"FIVE PRIME THERAPEUTICS, INC.",1175505.0,FPRX,Nasdaq,auto
+PDS Biotechnology Corp.,2,exact,100.0,PDS Biotechnology Corp,1472091.0,PDSB,Nasdaq,confirmed
+Sangamo Therapeutics,14,exact,100.0,"SANGAMO THERAPEUTICS, INC",1001233.0,SGMO,Nasdaq,confirmed
+"Akorn, Inc.",3,exact,100.0,AKORN INC,3116.0,AKRX,NASDAQ,auto
+ObsEva SA,6,exact,100.0,ObsEva SA,1685316.0,,,auto
+"Opus Genetics, Inc",3,exact,100.0,"Opus Genetics, Inc.",1228627.0,IRD,Nasdaq,auto
+"LogicBio Therapeutics, Inc",1,exact,100.0,"LogicBio Therapeutics, Inc.",1664106.0,LOGC,Nasdaq,auto
+"Candel Therapeutics, Inc.",7,exact,100.0,"Candel Therapeutics, Inc.",1841387.0,CADL,Nasdaq,auto
+Beam Therapeutics Inc.,4,exact,100.0,Beam Therapeutics Inc.,1745999.0,BEAM,Nasdaq,auto
+Eiger BioPharmaceuticals,7,exact,100.0,"Eiger BioPharmaceuticals, Inc.",1305253.0,EIGR,Nasdaq,auto
+"Clearside Biomedical, Inc.",11,exact,100.0,"Clearside Biomedical, Inc.",1539029.0,CLSD,Nasdaq,auto
+PLx Pharma,1,exact,100.0,PLx Pharma Inc.,1497504.0,PLXP,NASDAQ,confirmed
+UroGen Pharma Ltd.,8,exact,100.0,UroGen Pharma Ltd.,1668243.0,URGN,Nasdaq,auto
+"Turning Point Therapeutics, Inc.",4,exact,100.0,"Turning Point Therapeutics, Inc.",1595893.0,TPTX,Nasdaq,auto
+"Passage Bio, Inc.",1,exact,100.0,"Passage BIO, Inc.",1787297.0,PASG,Nasdaq,confirmed
+TransCode Therapeutics,1,exact,100.0,"Transcode Therapeutics, Inc.",1829635.0,RNAZ,Nasdaq,auto
+Bausch & Lomb Incorporated,53,exact,100.0,Bausch & Lomb Corp,1860742.0,BLCO,NYSE,confirmed
+"Keros Therapeutics, Inc.",3,exact,100.0,"Keros Therapeutics, Inc.",1664710.0,KROS,Nasdaq,auto
+Vaccinex Inc.,5,exact,100.0,"VACCINEX, INC.",1205922.0,VCNX,Nasdaq,auto
+REGENXBIO Inc.,7,exact,100.0,REGENXBIO Inc.,1590877.0,RGNX,Nasdaq,auto
+SQZ Biotechnologies,1,exact,100.0,SQZ Biotechnologies Co,1604477.0,SQZ,New York Stock Exchange,auto
+"Traws Pharma, Inc.",9,exact,100.0,"Traws Pharma, Inc.",1130598.0,TRAW,Nasdaq,confirmed
+ALX Oncology Inc.,4,exact,100.0,ALX ONCOLOGY HOLDINGS INC,1810182.0,ALXO,Nasdaq,auto
+"Cogent Biosciences, Inc.",5,exact,100.0,"Cogent Biosciences, Inc.",1622229.0,COGT,Nasdaq,auto
+"Asterias Biotherapeutics, Inc.",1,exact,100.0,"Asterias Biotherapeutics, Inc.",1572552.0,AST,NYSE,auto
+IO Biotech,4,exact,100.0,"IO Biotech, Inc.",1865494.0,IOBT,Nasdaq,auto
+"Ventyx Biosciences, Inc",3,exact,100.0,"Ventyx Biosciences, Inc.",1851194.0,VTYX,Nasdaq,auto
+"Pfenex, Inc",1,exact,100.0,Pfenex Inc.,1478121.0,PFNX,NYSE,auto
+"Aevi Genomic Medicine, LLC, a Cerecor company",7,exact,100.0,"Aevi Genomic Medicine, LLC",1138776.0,MDGN,NYSE,confirmed
+"miRagen Therapeutics, Inc.",3,exact,100.0,"MIRAGEN THERAPEUTICS, INC.",1590750.0,VRDN,Nasdaq,auto
+Acorda Therapeutics,12,exact,100.0,ACORDA THERAPEUTICS INC,1008848.0,ACOR,Nasdaq,auto
+NewAmsterdam Pharma,14,exact,100.0,NewAmsterdam Pharma Co N.V.,1936258.0,NAMS,Nasdaq,auto
+"Zai Lab (Shanghai) Co., Ltd.",13,exact,100.0,Zai Lab Ltd,1704292.0,ZLAB,Nasdaq,auto
+Zura Bio Inc,2,exact,100.0,Zura Bio Ltd,1855644.0,ZURA,Nasdaq,auto
+Mallinckrodt,20,exact,100.0,Mallinckrodt plc,1567892.0,MNK,NYSE,auto
+Dermata Therapeutics,6,exact,100.0,"Dermata Therapeutics, Inc.",1853816.0,DRMA,Nasdaq,auto
+Arvinas Inc.,4,exact,100.0,"ARVINAS, INC.",1655759.0,ARVN,Nasdaq,auto
+Axovant Sciences Ltd.,9,exact,100.0,Axovant Sciences Ltd.,1636050.0,SIOX,Nasdaq,auto
+PepGen Inc,4,exact,100.0,PepGen Inc.,1835597.0,PEPG,Nasdaq,confirmed
+Inovio Pharmaceuticals,14,exact,100.0,"INOVIO PHARMACEUTICALS, INC.",1055726.0,INO,Nasdaq,confirmed
+DBV Technologies,11,exact,100.0,DBV Technologies S.A.,1613780.0,DBVT,Nasdaq,auto
+MBX Biosciences,4,exact,100.0,"MBX Biosciences, Inc.",1776111.0,MBX,Nasdaq,auto
+Graybug Vision,2,exact,100.0,"GRAYBUG VISION, INC.",1534133.0,CALC,Nasdaq,auto
+Inhibikase Therapeutics,3,exact,100.0,"Inhibikase Therapeutics, Inc.",1750149.0,IKT,Nasdaq,auto
+"Mirum Pharmaceuticals, Inc.",30,exact,100.0,"Mirum Pharmaceuticals, Inc.",1759425.0,MIRM,Nasdaq,auto
+Angion Biomedica Corp,4,exact,100.0,Angion Biomedica Corp.,1601485.0,ELTX,Nasdaq,auto
+vTv Therapeutics,6,exact,100.0,vTv Therapeutics Inc.,1641489.0,VTVT,Nasdaq,confirmed
+"Intra-Cellular Therapies, Inc.",29,exact,100.0,"Intra-Cellular Therapies, Inc.",1567514.0,ITCI,Nasdaq,auto
+"Dicerna Pharmaceuticals, Inc., a Novo Nordisk company",6,exact,100.0,Dicerna Pharmaceuticals Inc,1399529.0,DRNA,Nasdaq,auto
+Mustang Bio,2,exact,100.0,"MUSTANG BIO, INC.",1680048.0,MBIO,Nasdaq,auto
+Recursion Pharmaceuticals Inc.,7,exact,100.0,"RECURSION PHARMACEUTICALS, INC.",1601830.0,RXRX,Nasdaq,auto
+"Melinta Therapeutics, Inc.",8,exact,100.0,"MELINTA THERAPEUTICS, INC. /NEW/",1461993.0,MLNT,Nasdaq,auto
+"Lineage Cell Therapeutics, Inc.",1,exact,100.0,"Lineage Cell Therapeutics, Inc.",876343.0,LCTX,NYSE,confirmed
+Northwest Biotherapeutics,1,exact,100.0,NORTHWEST BIOTHERAPEUTICS INC,1072379.0,NWBO,OTC,auto
+"Xencor, Inc.",8,exact,100.0,Xencor Inc,1326732.0,XNCR,Nasdaq,auto
+"Axcella Health, Inc",3,exact,100.0,Axcella Health Inc.,1633070.0,AXLA,Nasdaq,auto
+Aradigm Corporation,2,exact,100.0,ARADIGM CORP,1013238.0,ARDM,Nasdaq,auto
+"Lixte Biotechnology Holdings, Inc.",1,exact,100.0,"LIXTE BIOTECHNOLOGY HOLDINGS, INC.",1335105.0,NMAD,Nasdaq,confirmed
+Akebia Therapeutics,23,exact,100.0,"Akebia Therapeutics, Inc.",1517022.0,AKBA,Nasdaq,confirmed
+Canopy Growth Corporation,7,exact,100.0,Canopy Growth Corp,1737927.0,CGC,Nasdaq,auto
+"Oragenics, Inc.",2,exact,100.0,ORAGENICS INC,1174940.0,OGEN,NYSE,auto
+Aquestive Therapeutics,7,exact,100.0,"Aquestive Therapeutics, Inc.",1398733.0,AQST,Nasdaq,auto
+"Daré Bioscience, Inc.",4,fuzzy,93.33333333333333,"Dare Bioscience, Inc.",1401914.0,DARE,Nasdaq,confirmed
+Celldex Therapeutics,17,exact,100.0,"Celldex Therapeutics, Inc.",744218.0,CLDX,Nasdaq,confirmed
+Trevena Inc.,7,exact,100.0,TREVENA INC,1429560.0,TRVN,Nasdaq,confirmed
+"Forma Therapeutics, Inc.",8,exact,100.0,"Forma Therapeutics Holdings, Inc.",1538927.0,FMTX,Nasdaq,auto
+Intellia Therapeutics,6,exact,100.0,"Intellia Therapeutics, Inc.",1652130.0,NTLA,Nasdaq,auto
+Glaukos Corporation,25,exact,100.0,GLAUKOS Corp,1192448.0,GKOS,NYSE,auto
+Inotek Pharmaceuticals Corporation,1,exact,100.0,INOTEK PHARMACEUTICALS CORP,1281895.0,RCKT,Nasdaq,auto
+"Lyell Immunopharma, Inc.",4,exact,100.0,"Lyell Immunopharma, Inc.",1806952.0,LYEL,Nasdaq,auto
+Compass Therapeutics,3,exact,100.0,"Compass Therapeutics, Inc.",1738021.0,CMPX,Nasdaq,auto
+Annovis Bio Inc.,7,exact,100.0,"Annovis Bio, Inc.",1477845.0,ANVS,NYSE,auto
+Intersect ENT,5,exact,100.0,"Intersect ENT, Inc.",1271214.0,XENT,Nasdaq,auto
+Antares Pharma Inc.,4,exact,100.0,"ANTARES PHARMA, INC.",1016169.0,ATRS,NASDAQ,confirmed
+"Virios Therapeutics, Inc.",1,exact,100.0,"Virios Therapeutics, Inc.",1818844.0,DWTX,Nasdaq,confirmed
+NexImmune Inc.,2,exact,100.0,"NexImmune, Inc.",1538210.0,NEXI,Nasdaq,auto
+"Evelo Biosciences, Inc.",4,exact,100.0,"Evelo Biosciences, Inc.",1694665.0,EVLO,Nasdaq,auto
+Prokidney,6,exact,100.0,PROKIDNEY CORP.,1850270.0,PROK,Nasdaq,auto
+"scPharmaceuticals, Inc.",5,exact,100.0,scPharmaceuticals Inc.,1604950.0,SCPH,Nasdaq,confirmed
+"Nurix Therapeutics, Inc.",3,exact,100.0,"Nurix Therapeutics, Inc.",1549595.0,NRIX,Nasdaq,auto
+"Seres Therapeutics, Inc.",4,exact,100.0,"Seres Therapeutics, Inc.",1609809.0,MCRB,Nasdaq,auto
+Optinose US Inc.,8,exact,100.0,"OptiNose, Inc.",1494650.0,OPTN,Nasdaq,confirmed
+"Melinta Therapeutics, LLC",1,exact,100.0,"MELINTA THERAPEUTICS, INC. /NEW/",1461993.0,MLNT,Nasdaq,confirmed
+"IVERIC bio, Inc.",3,exact,100.0,"IVERIC bio, Inc.",1410939.0,ISEE,Nasdaq,auto
+Halozyme Therapeutics,8,exact,100.0,"HALOZYME THERAPEUTICS, INC.",1159036.0,HALO,Nasdaq,auto
+Navidea Biopharmaceuticals,7,exact,100.0,"NAVIDEA BIOPHARMACEUTICALS, INC.",810509.0,NAVB,NYSE,auto
+Vanda Pharmaceuticals,47,exact,100.0,Vanda Pharmaceuticals Inc.,1347178.0,VNDA,Nasdaq,confirmed
+"Benitec Biopharma, Inc.",2,exact,100.0,Benitec Biopharma Inc.,1808898.0,BNTC,Nasdaq,confirmed
+"Revelation Biosciences, Inc",1,exact,100.0,"REVELATION BIOSCIENCES, INC.",1810560.0,REVB,Nasdaq,confirmed
+"Oncternal Therapeutics, Inc",5,exact,100.0,"Oncternal Therapeutics, Inc.",1260990.0,ONCT,Nasdaq,auto
+BioXcel Therapeutics Inc,11,exact,100.0,"BioXcel Therapeutics, Inc.",1720893.0,BTAI,Nasdaq,auto
+"Stoke Therapeutics, Inc",3,exact,100.0,"Stoke Therapeutics, Inc.",1623526.0,STOK,Nasdaq,auto
+Aurinia Pharmaceuticals Inc.,11,exact,100.0,Aurinia Pharmaceuticals Inc.,1600620.0,AUPH,Nasdaq,auto
+Mirati Therapeutics Inc.,15,exact,100.0,"Mirati Therapeutics, Inc.",1576263.0,MRTX,Nasdaq,confirmed
+Genelux Corporation,3,exact,100.0,GENELUX Corp,1231457.0,GNLX,Nasdaq,confirmed
+Instil Bio,1,exact,100.0,"Instil Bio, Inc.",1789769.0,TIL,Nasdaq,auto
+"Day One Biopharmaceuticals, Inc.",4,exact,100.0,"Day One Biopharmaceuticals, Inc.",1845337.0,DAWN,Nasdaq,auto
+"Zenas BioPharma (USA), LLC",6,exact,100.0,"Zenas BioPharma, Inc.",1953926.0,ZBIO,Nasdaq,confirmed
+"Adverum Biotechnologies, Inc.",6,exact,100.0,"Adverum Biotechnologies, Inc.",1501756.0,ADVM,Nasdaq,auto
+Novavax,28,exact,100.0,NOVAVAX INC,1000694.0,NVAX,Nasdaq,auto
+"Genocea Biosciences, Inc.",5,exact,100.0,"GENOCEA BIOSCIENCES, INC.",1457612.0,GNCA,Nasdaq,confirmed
+Vitro Biopharma Inc.,1,exact,100.0,"Vitro Biopharma, Inc.",793171.0,,,auto
+Neurogene Inc.,2,exact,100.0,Neurogene Inc.,1404644.0,NGNE,Nasdaq,auto
+Inozyme Pharma,6,exact,100.0,"Inozyme Pharma, Inc.",1693011.0,INZY,Nasdaq,auto
+"Imara, Inc.",1,exact,100.0,IMARA Inc.,1672619.0,ELVN,Nasdaq,auto
+InMed Pharmaceuticals Inc.,1,exact,100.0,InMed Pharmaceuticals Inc.,1728328.0,INM,Nasdaq,confirmed
+"Viking Therapeutics, Inc.",7,exact,100.0,"Viking Therapeutics, Inc.",1607678.0,VKTX,Nasdaq,confirmed
+"Prime Medicine, Inc.",2,exact,100.0,"Prime Medicine, Inc.",1894562.0,PRME,Nasdaq,auto
+"Entrada Therapeutics, Inc.",3,exact,100.0,"Entrada Therapeutics, Inc.",1689375.0,TRDA,Nasdaq,confirmed
+"AN2 Therapeutics, Inc",1,exact,100.0,"AN2 Therapeutics, Inc.",1880438.0,ANTX,Nasdaq,confirmed
+"Replimune, Inc.",8,exact,100.0,"Replimune Group, Inc.",1737953.0,REPL,Nasdaq,confirmed
+Akcea Therapeutics,8,exact,100.0,"AKCEA THERAPEUTICS, INC.",1662524.0,AKCA,Nasdaq,auto
+Denali Therapeutics Inc.,6,exact,100.0,Denali Therapeutics Inc.,1714899.0,DNLI,Nasdaq,auto
+"Aduro Biotech, Inc.",5,exact,100.0,"ADURO BIOTECH, INC.",1435049.0,KDNY,Nasdaq,auto
+"Tonix Pharmaceuticals, Inc.",19,exact,100.0,Tonix Pharmaceuticals Holding Corp.,1430306.0,TNXP,Nasdaq,confirmed
+Mateon Therapeutics,3,exact,100.0,MATEON THERAPEUTICS INC,908259.0,OTLC,OTC,confirmed
+Rubius Therapeutics,2,exact,100.0,"Rubius Therapeutics, Inc.",1709401.0,RUBY,Nasdaq,auto
+Sunesis Pharmaceuticals,5,exact,100.0,SUNESIS PHARMACEUTICALS INC,1061027.0,VIRX,Nasdaq,auto
+"MyoKardia, Inc.",3,exact,100.0,"MyoKardia, Inc.",1552451.0,MYOK,NASDAQ,auto
+"Aileron Therapeutics, Inc.",1,exact,100.0,"Aileron Therapeutics, Inc.",1420565.0,RNTX,Nasdaq,auto
+Millendo Therapeutics SAS,1,exact,100.0,"Millendo Therapeutics, Inc.",1544227.0,TPST,Nasdaq,auto
+"Werewolf Therapeutics, Inc.",1,exact,100.0,"Werewolf Therapeutics, Inc.",1785530.0,HOWL,Nasdaq,confirmed
+"Relay Therapeutics, Inc.",2,exact,100.0,"Relay Therapeutics, Inc.",1812364.0,RLAY,Nasdaq,confirmed
+"Tyra Biosciences, Inc",4,exact,100.0,"Tyra Biosciences, Inc.",1863127.0,TYRA,Nasdaq,auto
+"Relmada Therapeutics, Inc.",8,exact,100.0,"RELMADA THERAPEUTICS, INC.",1553643.0,RLMD,Nasdaq,auto
+"IGM Biosciences, Inc.",1,exact,100.0,"IGM Biosciences, Inc.",1496323.0,IGMS,Nasdaq,confirmed
+MYnd Analytics,1,exact,100.0,"MYnd Analytics, Inc.",822370.0,EMMA,OTC,auto
+Tilray,1,exact,100.0,"Tilray, Inc.",1731348.0,TLRY,Nasdaq,auto
+Creative Medical Technology Holdings Inc,2,exact,100.0,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",1187953.0,CELZ,Nasdaq,confirmed
+Agenus Inc.,14,exact,100.0,AGENUS INC,1098972.0,AGEN,Nasdaq,auto
+Brainstorm-Cell Therapeutics,6,exact,100.0,BRAINSTORM CELL THERAPEUTICS INC.,1137883.0,BCLI,Nasdaq,auto
+Turn Therapeutics,2,exact,100.0,Turn Therapeutics Inc.,2023016.0,TTRX,Nasdaq,confirmed
+"Nkarta, Inc.",2,exact,100.0,"Nkarta, Inc.",1787400.0,NKTX,Nasdaq,auto
+Vyant Bio,1,exact,100.0,"Vyant Bio, Inc.",1349929.0,VYNT,Nasdaq,auto
+Cortendo AB,3,exact,100.0,Cortendo AB,1634432.0,SBBP,Nasdaq,auto
+Trevi Therapeutics,10,exact,100.0,"Trevi Therapeutics, Inc.",1563880.0,TRVI,Nasdaq,auto
+"Neonc Technologies, Inc.",3,exact,100.0,"NEONC TECHNOLOGIES HOLDINGS, INC.",1979414.0,NTHI,Nasdaq,auto
+LeMaitre Vascular,1,exact,100.0,LEMAITRE VASCULAR INC,1158895.0,LMAT,Nasdaq,auto
+"Curis, Inc.",4,exact,100.0,CURIS INC,1108205.0,CRIS,Nasdaq,auto
+Teleflex,1,exact,100.0,TELEFLEX INC,96943.0,TFX,NYSE,auto
+"Scholar Rock, Inc.",6,exact,100.0,Scholar Rock Holding Corp,1727196.0,SRRK,Nasdaq,auto
+"Kiora Pharmaceuticals, Inc.",5,exact,100.0,KIORA PHARMACEUTICALS INC,1372514.0,KPRX,Nasdaq,auto
+"Bioverativ, a Sanofi company",10,exact,100.0,Bioverativ Inc.,1681689.0,BIVV,NASDAQ,confirmed
+"Aytu BioPharma, Inc.",1,exact,100.0,"AYTU BIOPHARMA, INC",1385818.0,AYTU,Nasdaq,confirmed
+Aeglea Biotherapeutics,4,exact,100.0,"Aeglea BioTherapeutics, Inc.",1636282.0,SYRE,Nasdaq,auto
+"Ritter Pharmaceuticals, Inc.",2,exact,100.0,RITTER PHARMACEUTICALS INC,1460702.0,AIXC,Nasdaq,confirmed
+"Panbela Therapeutics, Inc.",1,exact,100.0,"Panbela Therapeutics, Inc.",1029125.0,PBLA,Nasdaq,auto
+"Taysha Gene Therapies, Inc.",3,exact,100.0,"Taysha Gene Therapies, Inc.",1806310.0,TSHA,Nasdaq,auto
+Alto Neuroscience,10,exact,100.0,"Alto Neuroscience, Inc.",1999480.0,ANRO,NYSE,auto
+"Vital Therapies, Inc.",4,exact,100.0,VITAL THERAPIES INC,1280776.0,IMUX,Nasdaq,confirmed
+"Outlook Therapeutics, Inc.",5,exact,100.0,"Outlook Therapeutics, Inc.",1649989.0,OTLK,Nasdaq,auto
+Corcept Therapeutics,17,exact,100.0,CORCEPT THERAPEUTICS INC,1088856.0,CORT,Nasdaq,confirmed
+"Alder Biopharmaceuticals, Inc.",4,exact,100.0,ALDER BIOPHARMACEUTICALS INC,1423824.0,ALDR,Nasdaq,auto
+Perspective Therapeutics,3,exact,100.0,"Perspective Therapeutics, Inc.",728387.0,CATX,NYSE,auto
+"ADMA Biologics, Inc.",2,exact,100.0,"ADMA BIOLOGICS, INC.",1368514.0,ADMA,Nasdaq,auto
+Pieris Pharmaceuticals GmbH,1,exact,100.0,"PIERIS PHARMACEUTICALS, INC.",1583648.0,PVLA,Nasdaq,auto
+"BioAtla, Inc.",5,exact,100.0,"BioAtla, Inc.",1826892.0,BCAB,Nasdaq,auto
+"Zafgen, Inc.",1,exact,100.0,"ZAFGEN, INC.",1374690.0,LRMR,Nasdaq,auto
+Immunic AG,6,exact,100.0,"IMMUNIC, INC.",1280776.0,IMUX,Nasdaq,confirmed
+"Evommune, Inc.",6,exact,100.0,"Evommune, Inc.",2044725.0,EVMN,NYSE,auto
+Repare Therapeutics,2,exact,100.0,Repare Therapeutics Inc.,1808158.0,RPTX,Nasdaq,auto
+Kyntra Bio,28,exact,100.0,"KYNTRA BIO, INC.",921299.0,KYNB,Nasdaq,auto
+"Precigen, Inc",2,exact,100.0,"PRECIGEN, INC.",1356090.0,PGEN,Nasdaq,auto
+Praxis Precision Medicines,15,exact,100.0,"Praxis Precision Medicines, Inc.",1689548.0,PRAX,Nasdaq,auto
+"Invivyd, Inc.",5,exact,100.0,"Invivyd, Inc.",1832038.0,IVVD,Nasdaq,auto
+"Akouos, Inc.",1,exact,100.0,"Akouos, Inc.",1722271.0,AKUS,Nasdaq,confirmed
+NewLink Genetics Corporation,24,exact,100.0,NEWLINK GENETICS CORP,1126234.0,LUMO,Nasdaq,confirmed
+"Iovance Biotherapeutics, Inc.",13,exact,100.0,"IOVANCE BIOTHERAPEUTICS, INC.",1425205.0,IOVA,Nasdaq,confirmed
+"Exicure, Inc.",1,exact,100.0,"EXICURE, INC.",1698530.0,XCUR,Nasdaq,auto
+Eledon Pharmaceuticals,6,exact,100.0,"Eledon Pharmaceuticals, Inc.",1404281.0,ELDN,Nasdaq,auto
+Restorbio Inc.,5,exact,100.0,"resTORbio, Inc.",1720580.0,ACET,Nasdaq,auto
+"Kymera Therapeutics, Inc.",3,exact,100.0,"Kymera Therapeutics, Inc.",1815442.0,KYMR,Nasdaq,auto
+Cyclerion Therapeutics,4,exact,100.0,"Cyclerion Therapeutics, Inc.",1755237.0,KRSA,Nasdaq,auto
+Rallybio,1,exact,100.0,Rallybio Corp,1739410.0,RLYB,Nasdaq,auto
+Cartesian Therapeutics,7,exact,100.0,"Cartesian Therapeutics, Inc.",1453687.0,RNAC,Nasdaq,auto
+Exelixis,22,exact,100.0,"EXELIXIS, INC.",939767.0,EXEL,Nasdaq,auto
+"Cyclo Therapeutics, Inc.",3,exact,100.0,"Cyclo Therapeutics, Inc.",922247.0,CYTH,Nasdaq,confirmed
+"Edgewise Therapeutics, Inc.",6,exact,100.0,"Edgewise Therapeutics, Inc.",1710072.0,EWTX,Nasdaq,auto
+Global Blood Therapeutics,3,exact,100.0,"Global Blood Therapeutics, Inc.",1629137.0,GBT,NASDAQ,auto
+"Kura Oncology, Inc.",8,exact,100.0,"Kura Oncology, Inc.",1422143.0,KURA,Nasdaq,confirmed
+Tracon Pharmaceuticals Inc.,12,exact,100.0,"Tracon Pharmaceuticals, Inc.",1394319.0,TCON,Nasdaq,auto
+Aerie Pharmaceuticals,22,exact,100.0,AERIE PHARMACEUTICALS INC,1337553.0,AERI,NASDAQ,auto
+"IGC Pharma, LLC",1,exact,100.0,"IGC Pharma, Inc.",1326205.0,IGC,NYSE,auto
+"Lisata Therapeutics, Inc.",10,exact,100.0,"LISATA THERAPEUTICS, INC.",320017.0,LSTA,Nasdaq,auto
+"Kiniksa Pharmaceuticals International, plc",4,exact,100.0,"Kiniksa Pharmaceuticals International, plc",1730430.0,KNSA,Nasdaq,auto
+Dyne Therapeutics,4,exact,100.0,"Dyne Therapeutics, Inc.",1818794.0,DYN,Nasdaq,auto
+"Satsuma Pharmaceuticals, Inc.",3,exact,100.0,"Satsuma Pharmaceuticals, Inc.",1692830.0,STSA,Nasdaq,auto
+Bristol-Myers Squibb,364,exact,100.0,BRISTOL MYERS SQUIBB CO,14272.0,BMY,NYSE,auto
+Spero Therapeutics,4,exact,100.0,"Spero Therapeutics, Inc.",1701108.0,SPRO,Nasdaq,auto
+"Disc Medicine, Inc",6,exact,100.0,"Disc Medicine, Inc.",1816736.0,IRON,Nasdaq,confirmed
+Immuneering Corporation,3,exact,100.0,Immuneering Corp,1790340.0,IMRX,Nasdaq,auto
+"Chinook Therapeutics, Inc. (formerly Aduro)",1,exact,100.0,"CHINOOK THERAPEUTICS, INC.",1435049.0,KDNY,Nasdaq,auto
+Elicio Therapeutics,1,exact,100.0,"Elicio Therapeutics, Inc.",1601485.0,ELTX,Nasdaq,auto
+Concert Pharmaceuticals,8,exact,100.0,"CONCERT PHARMACEUTICALS, INC.",1367920.0,CNCE,Nasdaq,auto
+Genelux GmbH,1,exact,100.0,GENELUX Corp,1231457.0,GNLX,Nasdaq,auto
+"Shuttle Pharmaceuticals, Inc.",1,exact,100.0,"Shuttle Pharmaceuticals Holdings, Inc.",1757499.0,SHPH,Nasdaq,auto
+VIVUS LLC,2,exact,100.0,VIVUS INC,881524.0,VVUS,NASDAQ,confirmed
+"Coherus Oncology, Inc.",7,exact,100.0,"Coherus Oncology, Inc.",1512762.0,CHRS,Nasdaq,confirmed
+Allena Pharmaceuticals,7,exact,100.0,"Allena Pharmaceuticals, Inc.",1624658.0,ALNA,Nasdaq,confirmed
